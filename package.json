@@ -1,0 +1,19 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "Library Management System - HTML/CSS/JS frontend, Flask backend, SQLite database",
+  "private": true,
+  "scripts": {
+    "start": "python app.py",
+    "seed": "python seed.py",
+    "test": "python -m unittest discover -s tests -v",
+    "dev": "nodemon --watch app.py --watch templates --watch static -e py,html,css,js --exec python app.py",
+    "format": "prettier --write \"static/**/*.{js,css}\" \"templates/*.html\"",
+    "lint": "eslint static/js/app.js"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "nodemon": "^3.1.0",
+    "prettier": "^3.3.0"
+  }
+}
