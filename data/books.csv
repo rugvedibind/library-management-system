@@ -1,0 +1,267 @@
+title,author,isbn,category
+Alexander Hamilton,Ron Chernow,9789360824457,Biography
+Autobiography of a Yogi,Paramahansa Yogananda,9789319307338,Biography
+Becoming,Michelle Obama,9789316632334,Biography
+Born a Crime,Trevor Noah,9789371331159,Biography
+Dr. Ambedkar: Life and Mission,Dhananjay Keer,9789372855685,Biography
+Einstein: His Life and Universe,Walter Isaacson,9789322022693,Biography
+Elon Musk,Ashlee Vance,9789381762523,Biography
+I Am Malala,Malala Yousafzai,9789394502833,Biography
+Ignited Minds,A. P. J. Abdul Kalam,9789395755528,Biography
+Leonardo da Vinci,Walter Isaacson,9789378043857,Biography
+Long Walk to Freedom,Nelson Mandela,9789322900441,Biography
+My Experiments with Truth,M. K. Gandhi,9789318248861,Biography
+Playing It My Way,Sachin Tendulkar,9789368828341,Biography
+Shoe Dog,Phil Knight,9789375347897,Biography
+Steve Jobs,Walter Isaacson,9789322485276,Biography
+The Diary of a Young Girl,Anne Frank,9789380700151,Biography
+The Man Who Knew Infinity,Robert Kanigel,9789398329825,Biography
+The Story of My Life,Helen Keller,9789373528663,Biography
+Unbroken,Laura Hillenbrand,9789392123634,Biography
+Wings of Fire,A. P. J. Abdul Kalam,9789384791889,Biography
+Blue Ocean Strategy,W. Chan Kim,9789334146172,Business
+Built to Last,Jim Collins,9789376156108,Business
+Business Adventures,John Brooks,9789354420146,Business
+Capital in the Twenty-First Century,Thomas Piketty,9789357192941,Business
+Competitive Strategy,Michael Porter,9789359776057,Business
+Economics,Paul Samuelson,9789353848859,Business
+Freakonomics,Steven Levitt,9789349753327,Business
+Good to Great,Jim Collins,9789335240138,Business
+Hooked,Nir Eyal,9789380853475,Business
+India Unbound,Gurcharan Das,9789351413639,Business
+Indian Economy,Ramesh Singh,9789334370102,Business
+Marketing Management,Philip Kotler,9789386589309,Business
+Poor Economics,Abhijit Banerjee,9789361338007,Business
+Principles,Ray Dalio,9789381378526,Business
+Rich Dad Poor Dad,Robert Kiyosaki,9789354148811,Business
+The Big Short,Michael Lewis,9789368106708,Business
+The Black Swan,Nassim Taleb,9789353051471,Business
+The Hard Thing About Hard Things,Ben Horowitz,9789390727612,Business
+The Innovator's Dilemma,Clayton Christensen,9789304247618,Business
+The Intelligent Investor,Benjamin Graham,9789359148335,Business
+The Lean Startup,Eric Ries,9789377204129,Business
+The Wealth of Nations,Adam Smith,9789322384166,Business
+Zero to One,Peter Thiel,9789363478923,Business
+Algorithms,Robert Sedgewick,9789345205998,Computer Science
+Artificial Intelligence: A Modern Approach,Stuart Russell,9789373702834,Computer Science
+"Compilers: Principles, Techniques and Tools",Alfred Aho,9789360320805,Computer Science
+Computer Networks,Andrew S. Tanenbaum,9789392298363,Computer Science
+Computer Organization and Design,David Patterson,9789395793186,Computer Science
+Data Structures Using C,Reema Thareja,9789398416228,Computer Science
+Database System Concepts,Abraham Silberschatz,9789394866287,Computer Science
+Deep Learning,Ian Goodfellow,9789382226468,Computer Science
+Fundamentals of Database Systems,Ramez Elmasri,9789336016107,Computer Science
+Hands-On Machine Learning,Aurelien Geron,9789386164254,Computer Science
+Introduction to Algorithms,Thomas H. Cormen,9789393319081,Computer Science
+Modern Operating Systems,Andrew S. Tanenbaum,9789347517792,Computer Science
+Operating System Concepts,Abraham Silberschatz,9789355008756,Computer Science
+Pattern Recognition and Machine Learning,Christopher Bishop,9789324776471,Computer Science
+Structure and Interpretation of Computer Programs,Harold Abelson,9789372837926,Computer Science
+1984,George Orwell,9789362105219,Fiction
+A Tale of Two Cities,Charles Dickens,9789375682059,Fiction
+Animal Farm,George Orwell,9789385491450,Fiction
+Anna Karenina,Leo Tolstoy,9789359406923,Fiction
+Brave New World,Aldous Huxley,9789399065937,Fiction
+Crime and Punishment,Fyodor Dostoevsky,9789308538019,Fiction
+Don Quixote,Miguel de Cervantes,9789350037034,Fiction
+Dracula,Bram Stoker,9789370586024,Fiction
+Dune,Frank Herbert,9789376582808,Fiction
+Frankenstein,Mary Shelley,9789314584215,Fiction
+Gone with the Wind,Margaret Mitchell,9789309324482,Fiction
+Great Expectations,Charles Dickens,9789384133016,Fiction
+Harry Potter and the Philosopher's Stone,J. K. Rowling,9789353557782,Fiction
+Jane Eyre,Charlotte Bronte,9789394893948,Fiction
+Life of Pi,Yann Martel,9789376452910,Fiction
+Little Women,Louisa May Alcott,9789366882819,Fiction
+Lord of the Flies,William Golding,9789397615844,Fiction
+Moby-Dick,Herman Melville,9789354146596,Fiction
+Oliver Twist,Charles Dickens,9789325898318,Fiction
+One Hundred Years of Solitude,Gabriel Garcia Marquez,9789322808860,Fiction
+Pride and Prejudice,Jane Austen,9789325877184,Fiction
+The Adventures of Tom Sawyer,Mark Twain,9789312658444,Fiction
+The Alchemist,Paulo Coelho,9789356663633,Fiction
+The Book Thief,Markus Zusak,9789328084589,Fiction
+The Catcher in the Rye,J. D. Salinger,9789311895574,Fiction
+The Da Vinci Code,Dan Brown,9789379432629,Fiction
+The Great Gatsby,F. Scott Fitzgerald,9789360013042,Fiction
+The Hobbit,J. R. R. Tolkien,9789382653844,Fiction
+The Hunger Games,Suzanne Collins,9789345263097,Fiction
+The Kite Runner,Khaled Hosseini,9789342300481,Fiction
+The Old Man and the Sea,Ernest Hemingway,9789364506045,Fiction
+The Picture of Dorian Gray,Oscar Wilde,9789308394905,Fiction
+To Kill a Mockingbird,Harper Lee,9789324410641,Fiction
+War and Peace,Leo Tolstoy,9789329110287,Fiction
+Wuthering Heights,Emily Bronte,9789394821415,Fiction
+21 Lessons for the 21st Century,Yuval Noah Harari,9789352016129,History
+A History of India,Romila Thapar,9789307392735,History
+A People's History of the United States,Howard Zinn,9789315247355,History
+An Era of Darkness,Shashi Tharoor,9789345142033,History
+Discovery of India,Jawaharlal Nehru,9789360787455,History
+Early India,Romila Thapar,9789319796781,History
+Freedom at Midnight,Larry Collins,9789324385468,History
+Glimpses of World History,Jawaharlal Nehru,9789372128352,History
+"Guns, Germs, and Steel",Jared Diamond,9789384001988,History
+Homo Deus,Yuval Noah Harari,9789397978024,History
+India After Gandhi,Ramachandra Guha,9789376990856,History
+India's Struggle for Independence,Bipan Chandra,9789381440193,History
+Makers of Modern India,Ramachandra Guha,9789341775884,History
+SPQR,Mary Beard,9789319539180,History
+Sapiens,Yuval Noah Harari,9789301879164,History
+Shivaji and His Times,Jadunath Sarkar,9789380370415,History
+The Anarchy,William Dalrymple,9789307360871,History
+The Argumentative Indian,Amartya Sen,9789303304282,History
+The Clash of Civilizations,Samuel Huntington,9789321430499,History
+The Great Partition,Yasmin Khan,9789381780572,History
+The Rise and Fall of the Third Reich,William Shirer,9789390598281,History
+The Silk Roads,Peter Frankopan,9789327611663,History
+The Wonder That Was India,A. L. Basham,9789373638560,History
+2 States,Chetan Bhagat,9789351788362,Indian Literature
+A Suitable Boy,Vikram Seth,9789356885578,Indian Literature
+Anandmath,Bankim Chandra Chattopadhyay,9789395183802,Indian Literature
+Batatyachi Chal,P. L. Deshpande,9789340720755,Indian Literature
+Chhava,Shivaji Sawant,9789328837550,Indian Literature
+Devdas,Sarat Chandra Chattopadhyay,9789345037841,Indian Literature
+Five Point Someone,Chetan Bhagat,9789376608560,Indian Literature
+Gitanjali,Rabindranath Tagore,9789384259969,Indian Literature
+Godaan,Munshi Premchand,9789355062048,Indian Literature
+Interpreter of Maladies,Jhumpa Lahiri,9789356963276,Indian Literature
+Kanthapura,Raja Rao,9789312537398,Indian Literature
+Malgudi Days,R. K. Narayan,9789380515434,Indian Literature
+Midnight's Children,Salman Rushdie,9789383579518,Indian Literature
+Mrityunjay,Shivaji Sawant,9789382104605,Indian Literature
+Sacred Games,Vikram Chandra,9789347428432,Indian Literature
+Shriman Yogi,Ranjit Desai,9789343906187,Indian Literature
+Shyamchi Aai,Sane Guruji,9789355974754,Indian Literature
+Swami,Ranjit Desai,9789347354861,Indian Literature
+Swami and Friends,R. K. Narayan,9789382993216,Indian Literature
+The God of Small Things,Arundhati Roy,9789341577181,Indian Literature
+The Guide,R. K. Narayan,9789325822016,Indian Literature
+The Home and the World,Rabindranath Tagore,9789377500313,Indian Literature
+The Inheritance of Loss,Kiran Desai,9789392645150,Indian Literature
+The Namesake,Jhumpa Lahiri,9789365237351,Indian Literature
+The Palace of Illusions,Chitra Banerjee Divakaruni,9789352814497,Indian Literature
+The White Tiger,Aravind Adiga,9789311744322,Indian Literature
+Train to Pakistan,Khushwant Singh,9789357116497,Indian Literature
+Untouchable,Mulk Raj Anand,9789324196897,Indian Literature
+Advanced Engineering Mathematics,Erwin Kreyszig,9789370940987,Mathematics
+Calculus,James Stewart,9789349855687,Mathematics
+Concrete Mathematics,Ronald Graham,9789313327967,Mathematics
+Discrete Mathematics and Its Applications,Kenneth Rosen,9789353896508,Mathematics
+Engineering Mathematics,K. A. Stroud,9789358463880,Mathematics
+Fermat's Last Theorem,Simon Singh,9789372683509,Mathematics
+Higher Engineering Mathematics,B. S. Grewal,9789342692760,Mathematics
+How to Solve It,George Polya,9789379581631,Mathematics
+Introduction to Probability,Dimitri Bertsekas,9789376113873,Mathematics
+Introductory Methods of Numerical Analysis,S. S. Sastry,9789327718621,Mathematics
+Linear Algebra and Its Applications,Gilbert Strang,9789330686696,Mathematics
+Mathematics for Machine Learning,Marc Peter Deisenroth,9789354011528,Mathematics
+Schaum's Outline of Statistics,Murray Spiegel,9789359211534,Mathematics
+The Joy of x,Steven Strogatz,9789381113615,Mathematics
+Things to Make and Do in the Fourth Dimension,Matt Parker,9789310761771,Mathematics
+Alice's Adventures in Wonderland,Lewis Carroll,9789381337028,Mystery & Children
+And Then There Were None,Agatha Christie,9789370304888,Mystery & Children
+Angels and Demons,Dan Brown,9789314635115,Mystery & Children
+Charlie and the Chocolate Factory,Roald Dahl,9789312999141,Mystery & Children
+Charlotte's Web,E. B. White,9789316768255,Mystery & Children
+First Among Equals,Jeffrey Archer,9789329770573,Mystery & Children
+Gone Girl,Gillian Flynn,9789304030043,Mystery & Children
+Kane and Abel,Jeffrey Archer,9789312670811,Mystery & Children
+Matilda,Roald Dahl,9789370675544,Mystery & Children
+Murder on the Orient Express,Agatha Christie,9789377816612,Mystery & Children
+Panchatantra,Vishnu Sharma,9789341726435,Mystery & Children
+Rebecca,Daphne du Maurier,9789315529307,Mystery & Children
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,9789300917034,Mystery & Children
+The Girl with the Dragon Tattoo,Stieg Larsson,9789302038300,Mystery & Children
+The Godfather,Mario Puzo,9789392992391,Mystery & Children
+The Hound of the Baskervilles,Arthur Conan Doyle,9789392733055,Mystery & Children
+The Jungle Book,Rudyard Kipling,9789371861588,Mystery & Children
+"The Lion, the Witch and the Wardrobe",C. S. Lewis,9789397348124,Mystery & Children
+The Little Prince,Antoine de Saint-Exupery,9789385066351,Mystery & Children
+The Silence of the Lambs,Thomas Harris,9789326371674,Mystery & Children
+The Wind in the Willows,Kenneth Grahame,9789392082429,Mystery & Children
+Treasure Island,Robert Louis Stevenson,9789366282909,Mystery & Children
+Winnie-the-Pooh,A. A. Milne,9789320426288,Mystery & Children
+Arthashastra,Kautilya,9789394246461,Philosophy
+Beyond Good and Evil,Friedrich Nietzsche,9789341047516,Philosophy
+Critique of Pure Reason,Immanuel Kant,9789360261955,Philosophy
+Discourse on Method,Rene Descartes,9789368080107,Philosophy
+Letters from a Stoic,Seneca,9789342172330,Philosophy
+Meditations,Marcus Aurelius,9789345358137,Philosophy
+Nicomachean Ethics,Aristotle,9789353989972,Philosophy
+Siddhartha,Hermann Hesse,9789378182440,Philosophy
+Tao Te Ching,Lao Tzu,9789304294742,Philosophy
+The Art of War,Sun Tzu,9789359534947,Philosophy
+The Bhagavad Gita,Vyasa,9789387526235,Philosophy
+The Gospel of Sri Ramakrishna,Mahendranath Gupta,9789300520074,Philosophy
+The Prince,Niccolo Machiavelli,9789368865612,Philosophy
+The Problems of Philosophy,Bertrand Russell,9789314108237,Philosophy
+The Republic,Plato,9789368631668,Philosophy
+Thus Spoke Zarathustra,Friedrich Nietzsche,9789349677043,Philosophy
+Automate the Boring Stuff with Python,Al Sweigart,9789318844728,Programming
+Clean Architecture,Robert C. Martin,9789398698792,Programming
+Clean Code,Robert C. Martin,9789315881399,Programming
+Code Complete,Steve McConnell,9789347787683,Programming
+Cracking the Coding Interview,Gayle Laakmann McDowell,9789375136279,Programming
+Design Patterns,Erich Gamma,9789366344003,Programming
+Effective Java,Joshua Bloch,9789348648877,Programming
+Eloquent JavaScript,Marijn Haverbeke,9789389768466,Programming
+Flask Web Development,Miguel Grinberg,9789316987168,Programming
+Fluent Python,Luciano Ramalho,9789345568154,Programming
+Head First Java,Kathy Sierra,9789327317787,Programming
+JavaScript: The Good Parts,Douglas Crockford,9789320819677,Programming
+Learning Python,Mark Lutz,9789394055766,Programming
+Let Us C,Yashavant Kanetkar,9789347267147,Programming
+Python Crash Course,Eric Matthes,9789317075369,Programming
+Refactoring,Martin Fowler,9789329787533,Programming
+The C Programming Language,Brian Kernighan,9789304571782,Programming
+The Mythical Man-Month,Frederick Brooks,9789301079816,Programming
+The Pragmatic Programmer,Andrew Hunt,9789373091143,Programming
+You Don't Know JS,Kyle Simpson,9789397880938,Programming
+A Brief History of Time,Stephen Hawking,9789307418282,Science
+A Short History of Nearly Everything,Bill Bryson,9789391135713,Science
+Astrophysics for People in a Hurry,Neil deGrasse Tyson,9789358519044,Science
+Black Holes and Baby Universes,Stephen Hawking,9789353867133,Science
+Concepts of Physics,H. C. Verma,9789335213620,Science
+Cosmos,Carl Sagan,9789300668172,Science
+Fundamentals of Physics,David Halliday,9789395863988,Science
+Organic Chemistry,Morrison and Boyd,9789348864574,Science
+Pale Blue Dot,Carl Sagan,9789392232831,Science
+Physics of the Impossible,Michio Kaku,9789398033463,Science
+Silent Spring,Rachel Carson,9789379426079,Science
+Six Easy Pieces,Richard Feynman,9789398711200,Science
+"Surely You're Joking, Mr. Feynman!",Richard Feynman,9789327913729,Science
+The Double Helix,James Watson,9789364774475,Science
+The Elegant Universe,Brian Greene,9789331634993,Science
+The Emperor of All Maladies,Siddhartha Mukherjee,9789320617693,Science
+The Feynman Lectures on Physics,Richard Feynman,9789398426401,Science
+The Gene,Siddhartha Mukherjee,9789372527810,Science
+The Hidden Reality,Brian Greene,9789392480058,Science
+The Immortal Life of Henrietta Lacks,Rebecca Skloot,9789332840935,Science
+The Origin of Species,Charles Darwin,9789305129838,Science
+The Periodic Table,Primo Levi,9789396745214,Science
+The Selfish Gene,Richard Dawkins,9789385642715,Science
+The Universe in a Nutshell,Stephen Hawking,9789389837087,Science
+Atomic Habits,James Clear,9789307751068,Self-Help
+Awaken the Giant Within,Tony Robbins,9789380156460,Self-Help
+Can't Hurt Me,David Goggins,9789306424826,Self-Help
+Deep Work,Cal Newport,9789369943982,Self-Help
+Emotional Intelligence,Daniel Goleman,9789344033011,Self-Help
+Grit,Angela Duckworth,9789341930399,Self-Help
+How to Win Friends and Influence People,Dale Carnegie,9789361520297,Self-Help
+Ikigai,Hector Garcia,9789328640891,Self-Help
+Man's Search for Meaning,Viktor Frankl,9789348746436,Self-Help
+Mindset,Carol Dweck,9789397258447,Self-Help
+Outliers,Malcolm Gladwell,9789319889049,Self-Help
+Quiet,Susan Cain,9789304658735,Self-Help
+Start with Why,Simon Sinek,9789319602785,Self-Help
+The 5 AM Club,Robin Sharma,9789379596505,Self-Help
+The 7 Habits of Highly Effective People,Stephen Covey,9789326148832,Self-Help
+The Four Agreements,Don Miguel Ruiz,9789396017960,Self-Help
+The Monk Who Sold His Ferrari,Robin Sharma,9789397961569,Self-Help
+The Power of Habit,Charles Duhigg,9789321631117,Self-Help
+The Power of Now,Eckhart Tolle,9789316199455,Self-Help
+The Psychology of Money,Morgan Housel,9789395515665,Self-Help
+The Secret,Rhonda Byrne,9789367090480,Self-Help
+Think and Grow Rich,Napoleon Hill,9789394461352,Self-Help
+"Thinking, Fast and Slow",Daniel Kahneman,9789332059870,Self-Help
+You Can Win,Shiv Khera,9789356547056,Self-Help
